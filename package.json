@@ -16,6 +16,7 @@
     "@types/react": "18.2.78",
     "@types/react-dom": "18.2.25",
     "axios": "^1.2.1",
+    "dayjs": "^1.11.7",
     "eslint": "8.57.0",
     "eslint-config-next": "14.2.1",
     "next": "13.0.6",
